@@ -1,0 +1,87 @@
+.pill-0 {
+    background-color: rgb(138, 237, 250);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-1 {
+    background-color: rgb(150, 150, 248);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-2 {
+    background-color: rgb(255, 133, 133);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-3 {
+    background-color: rgb(252, 206, 122);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-4 {
+    background-color: rgb(144, 238, 144);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-5 {
+    background-color: violet;
+    color: black;
+    border-radius: 10px;
+    padding: 1px;
+    display : inline-block;
+}
+.pill-6 {
+    background-color: rgb(219, 203, 244);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-7 {
+    background-color: rgb(221, 226, 73);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-8 {
+    background-color: rgb(201, 171, 0);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-9 {
+    background-color: rgb(0, 92, 179);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
+.pill-10 {
+    background-color: rgb(255, 0, 183);
+    color: black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 3px;
+    display : inline-block;
+}
